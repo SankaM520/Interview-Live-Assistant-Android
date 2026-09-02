@@ -27,7 +27,7 @@ jobs:
 
       - name: Extract Android project
         run: |
-          unzip -o "Interview-Live-Assistant-Android-X300Pro-v8-BRACE-FIXED.zip"
+          unzip -o "Interview-Live-Assistant-Android-X300Pro-v8-CORRECTED.zip"
 
       - name: Build APK
         working-directory: InterviewAssistantAndroid
