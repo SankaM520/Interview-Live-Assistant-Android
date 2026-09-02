@@ -27,7 +27,7 @@ jobs:
 
       - name: Extract Android project
         run: |
-          unzip -o "Interview-Live-Assistant-Android-X300Pro-v5-OpenAI-Live-Transcribe.zip"
+          unzip -o "Interview-Live-Assistant-Android-X300Pro-v6-OpenAI-Live-Transcribe-FIXED.zip"
 
       - name: Build APK
         working-directory: InterviewAssistantAndroid
